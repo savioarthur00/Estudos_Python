@@ -11,7 +11,7 @@ Este repositório foi criado para armazenar e compartilhar meus estudos, projeto
 - Python 3.x
 - Bibliotecas diversas (como NumPy, Pandas, Matplotlib, etc.)
 - Jupyter Notebook (quando aplicável)
-- VS Code / PyCharm
+-  PyCharm
 
 📂 Estrutura do Repositório
 
@@ -20,9 +20,8 @@ A organização do repositório pode variar, mas geralmente seguirá este format
 /
 ├── fundamentos/     # Conceitos básicos e sintaxe do Python
 ├── algoritmos/      # Estruturas de dados e algoritmos
-├── projetos/        # Pequenos projetos práticos
-├── desafios/        # Exercícios e desafios de programação
 └── README.md        # Este arquivo
+
 
 📌 Objetivo
 
